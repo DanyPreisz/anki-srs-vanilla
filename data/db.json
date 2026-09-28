@@ -1,0 +1,8 @@
+{
+  "cards": [
+    { "id": "c1", "front": "HTML", "back": "HyperText Markup Language", "due": 0, "ivl": 0, "ease": 2.5 },
+    { "id": "c2", "front": "CSS", "back": "Cascading Style Sheets", "due": 0, "ivl": 0, "ease": 2.5 },
+    { "id": "c3", "front": "JS", "back": "JavaScript", "due": 0, "ivl": 0, "ease": 2.5 },
+    { "id": "c4", "front": "SRS", "back": "Spaced repetition system", "due": 0, "ivl": 0, "ease": 2.5 }
+  ]
+}
